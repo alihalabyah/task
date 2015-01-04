@@ -1,0 +1,7 @@
+<layout>   
+  <ms_yogesh_index_sayHello>   
+    <reference name="content">   
+      <block type="yogesh/index" name="yogesh_index" template="ms/index.phtml"/>   
+    </reference>   
+  </ms_yogesh_index_sayHello>   
+</layout>   

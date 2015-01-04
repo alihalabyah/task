@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <Ms_Yogesh>
+      <active>true</active>
+      <codePool>local</codePool>
+    </Ms_Yogesh>
+  </modules>
+</config>

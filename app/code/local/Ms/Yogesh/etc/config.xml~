@@ -1,0 +1,32 @@
+<config>
+  <frontend>
+    <routers>
+      <yogesh>
+        <use>standard</use>
+          <args>
+            <module>Ms_Yogesh</module>
+            <frontName>yogesh</frontName>
+          </args>
+      </yogesh>
+    </routers>
+		<layout>
+		  <updates>
+			<yogesh>
+			  <file>ms.xml</file>
+			</yogesh>
+		  </updates>
+		</layout>
+  </frontend>
+  <global>
+    <models>
+	<yogesh>
+	 <class>Ms_Yogesh_Model</class>
+	</yogesh>
+     </models>
+	<blocks>
+	  <yogesh>
+		<class>Ms_Yogesh_Block</class>
+	  </yogesh>
+	</blocks>
+  </global>
+</config> 
